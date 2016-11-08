@@ -3,12 +3,13 @@ Containerization of Neverwinter Nights server on Linux.
 
 There is no NWNX here, just a simple vanilla NWN server.
 
-## Build & run
+## Run
 ```
-docker-compose up
+docker-compose up -d
 ```
 
-Options to nwserver is given in `docker-compose.yml`.
+#### Note
+Options to nwserver can be given in `docker-compose.yml`.
 
 ## Dependencies
 - [Docker](https://docs.docker.com/engine/installation/)
