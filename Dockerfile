@@ -23,4 +23,6 @@ RUN wget https://neverwintervault.org/sites/neverwintervault.org/files/project/1
         *.exe \
         *.dll
 
+RUN mkdir logs.0
+
 CMD ["./nwserver.sh"]
