@@ -4,6 +4,7 @@ Containerization of Neverwinter Nights server on Linux.
 There is no NWNX here, just a simple vanilla NWN server.
 
 ## Run
+Navigate to either slim or full and run
 ```
 docker-compose up -d
 ```
