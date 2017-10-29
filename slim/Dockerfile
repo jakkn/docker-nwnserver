@@ -1,4 +1,4 @@
-FROM i386/ubuntu
+FROM i386/ubuntu:trusty
 
 MAINTAINER jakkn <jakobknutsen@gmail.com>
 
